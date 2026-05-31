@@ -1,7 +1,7 @@
 const nextConfig = {
   output: "export",
-  basePath: "/shivani-portfolio",
-  assetPrefix: "/shivani-portfolio/",
+  basePath: "/Pavel-style-Version-3",
+  assetPrefix: "/Pavel-style-Version-3",
   images: {
     unoptimized: true,
   },
